@@ -18,20 +18,6 @@ when running an install or an update:
 
 * Update the requirements file.
 
-Security
---------
-
-The bundle includes the SensioLabs Security Checker. When included in a Symfony
-application, the check is available:
-
-.. code-block:: bash
-
-    // In Symfony 2.x
-    $ ./app/console security:check
-
-    // As of Symfony 2.8 and 3.x
-    $ ./bin/console security:check
-
 Contributing
 ------------
 
